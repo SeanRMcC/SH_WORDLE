@@ -1,6 +1,6 @@
 'use strict'
 
-let secret = 'could'
+let secret = 'pause'
 let wordList = [
   'which',
   'there',

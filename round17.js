@@ -1,6 +1,6 @@
 'use strict'
 
-let secret = 'force'
+let secret = 'radio'
 let wordList = [
   'which',
   'there',

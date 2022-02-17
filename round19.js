@@ -1,6 +1,6 @@
 'use strict'
 
-let secret = 'space'
+let secret = 'union'
 let wordList = [
   'which',
   'there',

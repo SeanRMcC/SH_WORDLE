@@ -1,6 +1,6 @@
 'use strict'
 
-let secret = 'vowel'
+let secret = 'scope'
 let wordList = [
   'which',
   'there',

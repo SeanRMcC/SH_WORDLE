@@ -1,6 +1,6 @@
 'use strict'
 
-let secret = 'query'
+let secret = 'crown'
 let wordList = [
   'which',
   'there',
